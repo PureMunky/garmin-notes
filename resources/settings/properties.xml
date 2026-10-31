@@ -1,0 +1,8 @@
+<properties>
+    <property id="deliveryMode" type="number">0</property>
+    <property id="ntfyServer" type="string">https://ntfy.sh</property>
+    <property id="ntfyTopic" type="string"></property>
+    <property id="webhookUrl" type="string"></property>
+    <property id="authToken" type="string"></property>
+    <property id="presets" type="string">Call back later,Buy groceries,Idea for the book,Follow up on email,Stretch tonight</property>
+</properties>

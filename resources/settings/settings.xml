@@ -1,0 +1,23 @@
+<settings>
+    <setting propertyKey="@Properties.deliveryMode" title="@Strings.SettingMode">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ModeNtfy</listEntry>
+            <listEntry value="1">@Strings.ModeWebhook</listEntry>
+        </settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.ntfyServer" title="@Strings.SettingNtfyServer">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.ntfyTopic" title="@Strings.SettingNtfyTopic">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.webhookUrl" title="@Strings.SettingWebhookUrl">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+    <setting propertyKey="@Properties.authToken" title="@Strings.SettingAuthToken">
+        <settingConfig type="password"/>
+    </setting>
+    <setting propertyKey="@Properties.presets" title="@Strings.SettingPresets">
+        <settingConfig type="alphaNumeric"/>
+    </setting>
+</settings>

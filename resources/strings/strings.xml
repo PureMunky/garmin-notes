@@ -1,0 +1,11 @@
+<strings>
+    <string id="AppName">Notes to Phone</string>
+    <string id="SettingMode">Delivery method</string>
+    <string id="ModeNtfy">ntfy push notification</string>
+    <string id="ModeWebhook">Custom webhook (JSON POST)</string>
+    <string id="SettingNtfyServer">ntfy server URL</string>
+    <string id="SettingNtfyTopic">ntfy topic (make it hard to guess)</string>
+    <string id="SettingWebhookUrl">Webhook URL (https)</string>
+    <string id="SettingAuthToken">Bearer token (optional)</string>
+    <string id="SettingPresets">Quick notes (comma separated)</string>
+</strings>
